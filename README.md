@@ -11,7 +11,7 @@ local to remote: "git init" and "git push"
 
 Don't forget the "git status" to keep track of the current state
 
-##Branching
+## Branching
 
 We use 'dev' branch to work with other developers
 without break the 'main code'
